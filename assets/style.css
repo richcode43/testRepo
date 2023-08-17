@@ -1,0 +1,46 @@
+/* styling anchor tag */
+a{
+    /* color: red; */
+    text-decoration: none;
+    /* border-style: dotted; */
+    border: 2px solid;
+   
+}
+
+
+/* paragraph */
+p{
+    font-size: 30px;
+    color: violet;
+/*     
+    border-top-style: double;
+    border-right-style: solid;
+    border-bottom-style: ridge;
+    border-left-style: dashed; */
+    /* border-style: solid ridge double;
+    border-width: 10px;
+    border-color: green;
+    border: 2px double red; */
+    /* border-radius: 10px; */
+    /* border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px; */
+    /* border-bottom-right-radius: 30px;
+    border-top-left-radius: 20px; */
+
+}
+.round{
+    background-color: red;
+    /* height: 100px;
+    width: 100px; */
+    border-radius: 50%;
+}
+.padding{
+    border: 1px solid;
+    width: 300px;
+    /* padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-left: 20px; */
+    padding:  20px 15px;
+    box-sizing: border-box;
+}
